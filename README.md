@@ -10,15 +10,16 @@ The Conversational Image Recognition Chatbot is an AI-powered application that u
 - Tensorflow
 - Hugging Face Transformers
 - OpenCV
-- Flask / Streamlit
-
+- FastAPI
+  
+## Installation section
 1.Install required dependencies
 pip install torch torchvision transformers fastapi uvicorn pillow python-multipart
 
 2.Run the application
 uvicorn app:app --reload
 
-Usage
+## Usage
 
 - Upload an image through the chatbot interface.
 - The system analyzes the image using the trained model.
