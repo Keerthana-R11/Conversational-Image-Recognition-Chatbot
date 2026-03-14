@@ -3,7 +3,7 @@
 ## Overview
 The Conversational Image Recognition Chatbot is an AI-powered application that understands images and generates natural language responses. The system uses the BLIP (Bootstrapping Language-Image Pretraining) model to analyze images and generate captions or answers based on the image content. Users can upload an image and interact with the chatbot to get descriptions or information about the image.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - BLIP (Bootstrapping Language-Image Pretraining)
